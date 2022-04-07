@@ -31,7 +31,7 @@ window.iconbitmap('icon.ico')
 #Создаем переменные
 
 messages = IntVar()
-time1 = IntVar()
+time1 = DoubleVar()
 message1 = StringVar()
 message2 = StringVar()
 message3 = StringVar()

@@ -1,5 +1,7 @@
 COPYPASTER v3.2
 
+Used libraries: Colorama, Tkinter, PyAutoGui, Time
+
 ENG: 
 What can he do:
 1. Send anything from your clipboard anywhere

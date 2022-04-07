@@ -31,7 +31,7 @@ window.iconbitmap('icon.ico')
 #distribution of variables
 
 messages = IntVar()
-time1 = IntVar()
+time1 = DoubleVar()
 message1 = StringVar()
 message2 = StringVar()
 message3 = StringVar()

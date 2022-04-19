@@ -1,6 +1,6 @@
 ###############|the first line|###############
 
-#Copypaster v3.1 by echo complex
+#Copypaster v3.2 by echo complex
 
 #open source code
 
@@ -122,7 +122,7 @@ def clicked():
 
 #widgets 
 
-lbl = Label(window, text="Copypaster v3.1 by echo complex", font=("Arial Bold", 20), fg='#8b00ff')  
+lbl = Label(window, text="Copypaster v3.2 by echo complex", font=("Arial Bold", 20), fg='#8b00ff')  
 lbl.pack(side=TOP)
 
 lbl2 = Label(window, text="Number of additional messages (0-4)", font=1)

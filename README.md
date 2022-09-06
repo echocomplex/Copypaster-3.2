@@ -4,8 +4,11 @@
 
 ### ENG: 
 ### What can he do:
+
 **1. Send anything from your clipboard anywhere
+
 2. Add additional messages to your copied text
+
 3. Сonfigure the time between sending messages**
 
 Installation:

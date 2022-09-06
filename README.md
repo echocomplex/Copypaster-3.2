@@ -5,15 +5,16 @@
 ### ENG: 
 ### What can he do:
 
-**1. Send anything from your clipboard anywhere
+**1. Send anything from your clipboard anywhere**
 
-2. Add additional messages to your copied text
+**2. Add additional messages to your copied text**
 
-3. Сonfigure the time between sending messages**
+**3. Сonfigure the time between sending messages**
 
-Installation:
-Upload all files to one folder.
-!!! Do not move the files that are in it or the program may show an error !!!
+### Installation:
+**Upload all files to one folder.**
+
+'!!! Do not move the files that are in it or the program may show an error !!!'
 
 RU:
 Что он умеет?
